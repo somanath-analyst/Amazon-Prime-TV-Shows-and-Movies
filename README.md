@@ -35,7 +35,6 @@ The project uses two datasets:
 Performed data analysis and visualization to understand content distribution, genre patterns, release trends, ratings, and popularity.
 
 ## Key Insights
-## Key Insights
 
 - **Content Distribution:** Movies make up the majority of the Amazon Prime Video content library, while TV Shows represent a smaller share.
 
